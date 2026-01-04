@@ -1,6 +1,6 @@
 ## <img src="https://dblbee.com/assets/dblbee_bee-0x16CQfU.webp" height="24" width="24" /> Hello from Florida🌴
 
-I'm Bryan, a passionate software engineer dedicated to designing and developing solutions for the complex problems others shy away from.
+I'm [Bryan](https://dblbee.com), a passionate software engineer dedicated to designing and developing solutions for the complex problems others shy away from.
 
 ## About Me
 

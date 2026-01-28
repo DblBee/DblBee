@@ -19,6 +19,10 @@ I’ve traveled the world developing solutions across HealthTech, InsurTech, and
 - **Rust (happily forced by the compiler 😏)**
 - **Blockchain ETL**
 - **Advanced ZK (Zero-Knowledge Proofs)**
+
+## Workings
+
+- **Solana Real World Asset Token Platform**
   
 ## Interests
 

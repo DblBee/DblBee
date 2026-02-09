@@ -1,4 +1,4 @@
-## <img src="https://dblbee.com/assets/dblbee_bee-0x16CQfU.webp" height="24" width="24" /> Hello from Florida🌴
+## <img src="https://dblbee.com/assets/dblbee_bee-0x16CQfU.webp" height="24" width="24" /> Hi 🌴
 
 I'm [Bryan](https://dblbee.com), a passionate software engineer dedicated to designing and developing solutions for the complex problems others shy away from.
 

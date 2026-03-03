@@ -4,12 +4,6 @@ I'm [Bryan](https://dblbee.com), a passionate software engineer dedicated to des
 
 I’ve traveled the world developing solutions across HealthTech, InsurTech, and FinTech. I have engineered systems in high-pressure environments, ranging from fast-paced startups to massive 150+ developer enterprise teams.
 
-- **Systems Architect:** Formerly at WebMD.
-- **Standards Development:** Member of the team that developed the [XBRL](https://www.xbrl.org/) business reporting standard in collaboration with PwC and Hitachi JPN.
-- **Global Impact:** Part of a team developing software to diagnose over 400 medical assessments for children and expecting mothers in low-to-middle-income countries. Over 1.5M assessments and counting.
-- **Modernization:** Led complete overhauls of legacy systems into modern architectures (Monolith to Microservices, PWA to Native Mobile, and Offline-first capabilities).
-- **Blockchain Innovation:** Developed a private blockchain distributed ledger for an interactive building experience in Tampa, FL.
-
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=rust,go,nextjs,react,kotlin,postgres,sqlite,gcp,aws,c,solidity,flutter&perline=6)](https://skillicons.dev)

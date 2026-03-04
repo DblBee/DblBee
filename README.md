@@ -10,9 +10,9 @@ I’ve traveled the world developing solutions across HealthTech, InsurTech, and
 
 ## Currently Learning
 
-- **Rust (happily forced by the compiler 😏)**
 - **Blockchain ETL**
 - **Advanced ZK (Zero-Knowledge Proofs)**
+- **🤖 ClawdBot 🤖 and the wonderlings of the funkyness that is this thing**
 
 ## Workings
 

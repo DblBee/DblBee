@@ -10,13 +10,12 @@ I’ve traveled the world developing solutions across HealthTech, InsurTech, and
 
 ## Currently Learning
 
-- **Blockchain ETL**
+- **SOLANA - NFT - RWA**
 - **Advanced ZK (Zero-Knowledge Proofs)**
-- **🤖 ClawdBot 🤖 and the wonderlings of the funkyness that is this thing**
 
 ## Workings
 
-- **Solana Real World Asset Token Platform**
+- **[BeeBea-Planet](https://beebea.xyz) - Custom collectible merchandise for artists, musicians, streamers, and creatives**
   
 ## Interests
 

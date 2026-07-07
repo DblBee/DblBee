@@ -8,6 +8,12 @@ I’ve traveled the world developing solutions across HealthTech, InsurTech, and
 
 [![My Skills](https://skillicons.dev/icons?i=rust,go,nextjs,react,kotlin,postgres,sqlite,gcp,aws,c,solidity,flutter&perline=6)](https://skillicons.dev)
 
+## Currently Learning
+
+- **Go MoQ (Media Over QUIC) WebTransport**
+- **OBS Studio (Open Broadcaster Software) Plugin Development**
+- **Cloud Analytics / Reporting / Audit**
+
 ## Interests
 
 I’m an avid 3D printing enthusiast with experience in CAD and mechanical/electrical design. I enjoy integrating prints with 🤖 IoT devices like [ESP32 microcontrollers](https://idf.espressif.com/) and Raspberry Pi boards.

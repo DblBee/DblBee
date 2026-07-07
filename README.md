@@ -26,13 +26,6 @@ My current design stack includes:
 - **Plasticity**
 - **Orca Slicer**
 
-## GitHub Stats
-
-### 📊 GitHub Stats
-- **Public Repositories:** 7
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DblBee&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 [DblBee.com](https://dblbee.com)

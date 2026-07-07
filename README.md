@@ -6,11 +6,11 @@ I’ve traveled the world developing solutions across HealthTech, InsurTech, and
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=rust,go,nextjs,react,kotlin,postgres,sqlite,gcp,aws,c,solidity,flutter&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,ts,kotlin,cpp,solidity,nextjs,vite,react,flutter,nodejs,nestjs,tailwind,tensorflow,wasm,astro,gcp,aws,supabase,postgres,sqlite,kubernetes,ableton,arduino&perline=8)
 
 ## Currently Learning
 
-- **Go MoQ (Media Over QUIC) WebTransport**
+- **Go MoQ (Media Over QUIC) WebTransport + HTMX**
 - **OBS Studio (Open Broadcaster Software) Plugin Development**
 - **Cloud Analytics / Reporting / Audit**
 

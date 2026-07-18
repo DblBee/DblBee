@@ -6,10 +6,11 @@ I’ve traveled the world developing solutions across HealthTech, InsurTech, and
 
 ## Skills & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=rust,go,ts,kotlin,cpp,solidity,nextjs,vite,react,flutter,nodejs,nestjs,tailwind,tensorflow,wasm,astro,gcp,aws,supabase,postgres,sqlite,kubernetes,ableton,arduino&perline=8)
+![My Skills](https://skillicons.dev/icons?i=go,rust,ts,kotlin,cpp,solidity,nextjs,vite,react,flutter,nodejs,nestjs,tailwind,tensorflow,wasm,astro,gcp,aws,supabase,postgres,sqlite,kubernetes,ableton,arduino&perline=8)
 
 ## Currently Learning
 
+- **[ODIN](https://odin-lang.org/) to replace C in my stack**
 - **Go MoQ (Media Over QUIC) WebTransport + HTMX**
 - **Building AI Agent Skills / MCP**
 - **OBS Studio (Open Broadcaster Software) Plugin Development**

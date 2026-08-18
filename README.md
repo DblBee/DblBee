@@ -10,7 +10,6 @@ I’ve traveled the world developing solutions across HealthTech, InsurTech, and
 
 ## Currently Learning
 
-- **[ODIN](https://odin-lang.org/) to replace C in my stack**
 - **Go MoQ (Media Over QUIC) WebTransport + HTMX**
 - **Building AI Agent Skills / MCP**
 - **OBS Studio (Open Broadcaster Software) Plugin Development**
